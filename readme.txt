@@ -8,4 +8,5 @@ git
 
 1.create a new branch is quick.
 
-1.create a new branch is quick & simple.
+
+1.creating a new branch is quick and simple.
