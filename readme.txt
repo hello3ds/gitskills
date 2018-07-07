@@ -4,3 +4,4 @@ git
 
 
 1.git push to master
+2.push to master hope yes;
